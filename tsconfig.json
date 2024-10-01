@@ -1,0 +1,11 @@
+{
+  "compiletOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "strict": true,
+    "outDir": "./dist",
+    "rootDir": "./"
+  },
+  "include": ["**/*"],
+  "exclude": ["node_modules"]
+}
